@@ -1,1 +1,1 @@
-# project-Car
+This project talks about the car system, as it is implemented in the Java language (opject oriented programming), where it is possible at first to identify the types of new cars and determine their color and number, and over several days it is possible to make a complete inventory of the number that entered from this car and the colors available from it and the models.
